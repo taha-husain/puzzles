@@ -26,7 +26,7 @@ arr.sort!
 
 # Benchmark.bm do |x|
 #  x.report do
-#    a.sort!
+#    arr.sort!
 #  end
 # end
 # 0.080000   0.000000   0.080000 (  0.079269)
